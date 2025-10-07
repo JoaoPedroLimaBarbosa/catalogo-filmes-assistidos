@@ -86,9 +86,7 @@ O site está disponível em:
 
 ---
 
-## 👨‍💻 Autor
-
-**João Pedro Lima Barbosa**  
+## 👨‍💻 Autor **João Pedro Lima Barbosa**  
 📅 Projeto desenvolvido em 2025  
 📚 Disciplina: Projeto de Banco de Dados
 🏫 Instituição: Centro Universitario Santo Agostinho
