@@ -33,13 +33,13 @@ O banco foi criado no **Supabase**, com as seguintes tabelas principais:
 
 ---
 
-## 🧩 Scripts SQL
+## 🧩 Codigos SQL
 
 Os arquivos SQL usados no Supabase estão organizados em:
 
-- `create_tables.sql` → Criação das tabelas do banco  
-- `views.sql` → Criação de visões para estatísticas (total, média etc.)  
-- `functions.sql` → Funções para manipulação e cálculo de dados
+- `Create Table` → Criação das tabelas do banco  
+- `create função` → Criação de visões para estatísticas (total, média etc.)  
+- `create view` → Funções para manipulação e cálculo de dados
 
 ---
 
