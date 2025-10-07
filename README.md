@@ -66,7 +66,9 @@ O usuário pode:
 
 | Tela Principal | Adicionar Filme |
 |----------------|----------------|
-| ![Home](./tela-principal.jpg) | ![Adicionar](./tela-adicionar.jpg) |
+| ![Home](./tela-pri![Imagem 07-10-2025 às 16 06](https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
+ncipal.jpg) | ![Adicionar](./![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
+tela-adicionar.jpg) |
 
 ---
 
@@ -93,7 +95,7 @@ O site está disponível em:
 
 **João Pedro Lima Barbosa**  
 📅 Projeto desenvolvido em 2025  
-📚 Disciplina: Desenvolvimento de Aplicações Web com Banco de Dados  
-🏫 Instituição: [adicione o nome da sua instituição aqui]
+📚 Disciplina: Desenvolvimento de Aplicações Web com Banco de Dados  xxxxxx
+🏫 Instituição: [adicione o nome da sua instituição aqui] xxxxxx
 
 ---
