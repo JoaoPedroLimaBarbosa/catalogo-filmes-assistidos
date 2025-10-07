@@ -62,9 +62,9 @@ O usuário pode:
 
 | Tela Principal | Adicionar Filme |
 |----------------|----------------|
-|(https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
-|](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
-|
+| ![Home]() | ![Adiciona![Imagem 07-10-2025 às 16 06](https://github.com/user-attachments/assets/c5de1190-7e73-41e4-9322-94d94136d1a6)
+r![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/cf9d33c6-6ff6-481e-87b5-e04cddf63990)
+]() |
 
 ---
 
