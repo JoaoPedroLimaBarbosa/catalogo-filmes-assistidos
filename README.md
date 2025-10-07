@@ -45,7 +45,8 @@ Os arquivos SQL usados no Supabase estão organizados em:
 
 ## 🧠 Modelo Lógico do Banco de Dados
 
-![Modelo Lógico](./modelo-logico.png)
+![Modelo Lógico](./m![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/2f2049b0-9f15-43d8-84dc-1c2fe9de8757)
+odelo-logico.png)
 
 *(Substitua o nome do arquivo acima pela imagem do modelo que você exportar do Supabase.)*
 
@@ -66,8 +67,8 @@ O usuário pode:
 
 | Tela Principal | Adicionar Filme |
 |----------------|----------------|
-| ![Home](./tela-pri![Imagem 07-10-2025 às 16 06](https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
-ncipal.jpg) | ![Adicionar](./![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
+|(./tela-pri![Imagem 07-10-2025 às 16 06](https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
+ncipal.jpg) |(./![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
 tela-adicionar.jpg) |
 
 ---
@@ -95,7 +96,7 @@ O site está disponível em:
 
 **João Pedro Lima Barbosa**  
 📅 Projeto desenvolvido em 2025  
-📚 Disciplina: Desenvolvimento de Aplicações Web com Banco de Dados  xxxxxx
-🏫 Instituição: [adicione o nome da sua instituição aqui] xxxxxx
+📚 Disciplina: Projeto de Banco de Dados
+🏫 Instituição: Centro Universitario Santo Agostinho
 
 ---
