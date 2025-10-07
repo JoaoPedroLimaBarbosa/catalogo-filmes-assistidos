@@ -1,0 +1,57 @@
+-- Tabela de gêneros (categorias dos filmes)
+create table if not exists categorias (
+  id bigint generated always as identity primary key,
+  nome text not null
+);
+
+-- Tabela principal de filmes
+create table if not exists filmes (
+  id bigint generated always as identity primary key,
+  titulo text not null,
+  diretor text,
+  ano_lancamento int,
+  nota numeric(2,1),
+  status text check (status in ('Assistido', 'Não Assistido')),
+  genero_id bigint references categorias(id) on delete set null
+);
+
+-- VIEW para listar filmes com o nome da categoria
+create or replace view filmes_view as
+select 
+  f.id,
+  f.titulo,
+  f.diretor,
+  f.ano_lancamento,
+  f.nota,
+  f.status,
+  c.nome as genero
+from filmes f
+left join categorias c on f.genero_id = c.id;
+
+
+-- Função para retornar filmes de uma categoria específica
+create or replace function get_filmes_por_categoria(categoria_id bigint)
+returns table (
+  id bigint,
+  titulo text,
+  diretor text,
+  ano_lancamento int,
+  nota numeric,
+  status text,
+  genero text
+) as $$
+begin
+  return query
+  select 
+    f.id,
+    f.titulo,
+    f.diretor,
+    f.ano_lancamento,
+    f.nota,
+    f.status,
+    c.nome as genero
+  from filmes f
+  join categorias c on f.genero_id = c.id
+  where f.genero_id = categoria_id;
+end;
+$$ language plpgsql;
