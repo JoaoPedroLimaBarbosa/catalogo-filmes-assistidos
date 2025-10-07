@@ -49,7 +49,7 @@ Os arquivos SQL usados no Supabase estão organizados em:
 
 ## 🖥️ Interface do Usuário
 
-A interface foi construída no **WeWeb**, conectando-se diretamente ao Supabase.  
+A interface foi construída no **Lovable**, conectando-se diretamente ao Supabase.  
 O usuário pode:
 
 - ➕ Adicionar novos filmes  
