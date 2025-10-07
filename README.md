@@ -92,5 +92,5 @@ O site está disponível em:
 📅 Projeto desenvolvido em 2025  
 📚 Disciplina: Projeto de Banco de Dados
 🏫 Instituição: Centro Universitario Santo Agostinho
-
+👨🏻‍🏫 Professor: Anderson Soares Costa
 ---
