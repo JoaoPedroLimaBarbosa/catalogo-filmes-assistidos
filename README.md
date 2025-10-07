@@ -44,9 +44,8 @@ Os arquivos SQL usados no Supabase estão organizados em:
 ---
 
 ## 🧠 Modelo Lógico do Banco de Dados
+![Modelo Lógico](https://github.com/user-attachments/assets/c6ce81a0-8c50-4b49-8670-2acf4407b879)
 
-![Modelo Lógico](./m![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/2f2049b0-9f15-43d8-84dc-1c2fe9de8757)
-odelo-logico.png)
 
 *(Substitua o nome do arquivo acima pela imagem do modelo que você exportar do Supabase.)*
 
@@ -67,9 +66,9 @@ O usuário pode:
 
 | Tela Principal | Adicionar Filme |
 |----------------|----------------|
-|(./tela-pri![Imagem 07-10-2025 às 16 06](https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
-ncipal.jpg) |(./![Imagem 07-10-2025 às 16 06 (1)](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
-tela-adicionar.jpg) |
+|(https://github.com/user-attachments/assets/c944606b-3f16-4b49-a374-61ebc51f709c)
+|](https://github.com/user-attachments/assets/aa113d0f-7513-4f5d-b9e4-a56e77f77b9a)
+|
 
 ---
 
