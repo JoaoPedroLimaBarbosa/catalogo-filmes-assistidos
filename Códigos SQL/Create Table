@@ -1,0 +1,17 @@
+-- Tabela de gêneros (categorias dos filmes)
+create table if not exists categorias (
+  id bigint generated always as identity primary key,
+  nome text not null
+);
+
+-- Tabela principal de filmes
+create table if not exists filmes (
+  id bigint generated always as identity primary key,
+  titulo text not null,
+  diretor text,
+  ano_lancamento int,
+  nota numeric(2,1),
+  status text check (status in ('Assistido', 'Não Assistido')),
+  genero_id bigint references categorias(id) on delete set null
+);
+
