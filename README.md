@@ -45,10 +45,6 @@ Os arquivos SQL usados no Supabase estão organizados em:
 
 ## 🧠 Modelo Lógico do Banco de Dados
 ![Modelo Lógico](https://github.com/user-attachments/assets/c6ce81a0-8c50-4b49-8670-2acf4407b879)
-
-
-*(Substitua o nome do arquivo acima pela imagem do modelo que você exportar do Supabase.)*
-
 ---
 
 ## 🖥️ Interface do Usuário
