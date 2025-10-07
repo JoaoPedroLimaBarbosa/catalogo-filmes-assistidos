@@ -1,0 +1,26 @@
+-- Função para retornar filmes de uma categoria específica
+create or replace function get_filmes_por_categoria(categoria_id bigint)
+returns table (
+  id bigint,
+  titulo text,
+  diretor text,
+  ano_lancamento int,
+  nota numeric,
+  status text,
+  genero text
+) as $$
+begin
+  return query
+  select 
+    f.id,
+    f.titulo,
+    f.diretor,
+    f.ano_lancamento,
+    f.nota,
+    f.status,
+    c.nome as genero
+  from filmes f
+  join categorias c on f.genero_id = c.id
+  where f.genero_id = categoria_id;
+end;
+$$ language plpgsql;
