@@ -1,0 +1,15 @@
+
+-- VIEW para listar filmes com o nome da categoria
+create or replace view filmes_view as
+select 
+  f.id,
+  f.titulo,
+  f.diretor,
+  f.ano_lancamento,
+  f.nota,
+  f.status,
+  c.nome as genero
+from filmes f
+left join categorias c on f.genero_id = c.id;
+
+
