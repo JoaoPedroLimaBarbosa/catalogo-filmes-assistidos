@@ -4,7 +4,7 @@ Um aplicativo web para organizar e acompanhar sua jornada cinematográfica.
 Permite adicionar filmes, registrar notas, marcar como assistidos e visualizar estatísticas gerais — tudo de forma simples e intuitiva.
 
 🔗 **Acesse o projeto publicado:** [movie-watchlist-buddy.lovable.app](https://movie-watchlist-buddy.lovable.app)
-
+https://youtu.be/862IkH2PsvI   link youtube
 ---
 
 ## 🚀 Tecnologias Utilizadas
